@@ -7,7 +7,7 @@ Hi, I'm Naman 👋
 🔧 Tech Stack:
 
 * JavaScript / TypeScript / Node.js
-* Python (learning)
+* Python, .Net(Learning)
 * LangChain / OpenAI / RAG
 * AWS / Docker (learning)
 

@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Naman Sharma
-- 👀 I’m interested in coding and developing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any project which allows me to learn and enhance my skills
-- 📫 How to reach me via my mail id namansharma714@gmail.com
+Hi, I'm Naman 👋
 
-<!---
-n2sharma/n2sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Full Stack Developer transitioning into AI Engineering
+💡 Experienced in building scalable backend systems and AI-powered applications
+🧠 Currently focused on LLMs, RAG systems, and GenAI
+
+🔧 Tech Stack:
+
+* JavaScript / TypeScript / Node.js
+* Python (learning)
+* LangChain / OpenAI / RAG
+* AWS / Docker (learning)
+
+📌 Current Goal:
+Building production-ready AI applications and transitioning into an AI Engineer role
